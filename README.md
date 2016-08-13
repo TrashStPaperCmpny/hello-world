@@ -1,3 +1,0 @@
-# hello-world
-First step to Git(ing)!! My hello to the world...
-Very new to the world of 0's and 1's taking small steps for big leaps.
